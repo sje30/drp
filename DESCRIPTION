@@ -1,0 +1,13 @@
+Package: drp
+Type: Package
+Title: Density recovery profile for retinal mosaics
+Version: 1.0
+Date: 2018-11-17
+Author: Stephen J Eglen
+Maintainer: Stephen J Eglen <sje30@cam.ac.uk>
+Description: Compute the Density Recovery Profile as defined by Rodieck (1992)
+License: GPL-3
+LinkingTo: Rcpp
+Imports: Rcpp
+RoxygenNote: 6.1.0
+Encoding: UTF-8
